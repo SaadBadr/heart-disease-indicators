@@ -1,2 +1,2 @@
 # heart-disease-indicators
-big data project using spark with python
+big data project using python and hadoop (model training).
